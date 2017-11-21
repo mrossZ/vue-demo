@@ -1,1 +1,3 @@
-<h1>Name Profile.</h1>
+<template>
+  <h1>Name Profile.</h1>
+</template>
